@@ -6,7 +6,7 @@ To enhance your README.md with more details, I'll expand each section with addit
 
 Welcome to the **Docker Mastery Guide**, your ultimate resource for diving deep into the world of Docker. Designed for enthusiasts at every skill level, this guide lays the foundation for Docker usage and best practices, dives into advanced topics, and unveils the potential of Docker in both DevOps and MLOps landscapes.
 
-![Docker Mastery Cover](path_to_cover_image)
+![Docker Mastery Cover](https://raw.githubusercontent.com/ranareehanaslam/Docker-Mastery-Guide/main/Docker%20Guide-1.jpg)
 
 ## 🚀 Getting Started
 
